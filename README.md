@@ -1,5 +1,5 @@
 # <img src = "Assets/Logo.jpg" alt="Logo" height ="50" align="left"> Click on Cake 
-Welcome to **Click_On_Cake**! This is a delightful online cake ordering website where users can explore various cake designs, choose their favorites, and place orders effortlessly.
+Welcome to **ClickOnCake**! This is a delightful online cake ordering website where users can explore various cake designs, choose their favorites, and place orders effortlessly.
 
 
 ## 🎨 Features
