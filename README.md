@@ -54,4 +54,4 @@ Welcome to **ClickOnCake**! This is a delightful online cake ordering website wh
 
 Project Link: [ClickOnCake](https://github.com/Avanti1102/ClickOnCake)
 
-# Thank you for checking out Click_On_Cake! 🎂 Enjoy exploring and ordering your favorite cakes.
+# Thank you for checking out ClickOnCake! 🎂 Enjoy exploring and ordering your favorite cakes.
